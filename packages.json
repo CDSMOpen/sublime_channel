@@ -6,12 +6,12 @@
 			"description": "Snippets and macros to help Thinqi markdown authors",
 			"author": "Darren Wallace",
 			"homepage": "http://www.cdsm.co.uk",
-			"last_modified": "2013-04-10 16:45:00",
+			"last_modified": "2011-12-12 05:04:31",
 			"platforms": {
 				"*": [
 					{
-						"version": "0.1.1",
-						"url": "http://nodeload.github.com/CDSMOpen/thinqi_sublime/zip/develop"
+						"version": "0.1.0",
+						"url": "https://github.com/CDSMOpen/thinqi_sublime/archive/master.zip"
 					}
 				]
 			}
