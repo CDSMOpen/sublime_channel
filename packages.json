@@ -2,7 +2,7 @@
 	"schema_version": "1.2",
 	"packages": [
 		{
-			"name": "Thinqi Authoring Snippets",
+			"name": "Thinqi Snippets",
 			"description": "Snippets and macros to help Thinqi markdown authors",
 			"author": "Darren Wallace",
 			"homepage": "http://www.cdsm.co.uk",
@@ -10,7 +10,6 @@
 			"platforms": {
 				"*": [
 					{
-						"version": "0.1.0",
 						"url": "https://github.com/CDSMOpen/thinqi_sublime/archive/master.zip"
 					}
 				]
