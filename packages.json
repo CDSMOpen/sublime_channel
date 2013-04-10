@@ -6,11 +6,11 @@
 			"description": "Snippets and macros to help Thinqi markdown authors",
 			"author": "Darren Wallace",
 			"homepage": "http://www.cdsm.co.uk",
-			"last_modified": "2013-04-10 00:00:00",
+			"last_modified": "2013-04-10 16:00:00",
 			"platforms": {
 				"*": [
 					{
-						"version": "0.1.0",
+						"version": "0.1.1",
 						"url": "https://github.com/CDSMOpen/thinqi_sublime/zipball/develop"
 					}
 				]
