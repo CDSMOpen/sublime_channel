@@ -10,7 +10,7 @@
 			"platforms": {
 				"*": [
 					{
-						"url": "https://github.com/CDSMOpen/thinqi_sublime"
+						"url": "https://nodeload.github.com/CDSMOpen/thinqi_sublime/zip/develop"
 					}
 				]
 			}
