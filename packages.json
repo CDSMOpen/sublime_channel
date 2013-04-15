@@ -2,15 +2,16 @@
 	"schema_version": "1.2",
 	"packages": [
 		{
-			"name": "Thinqi Snippets",
-			"description": "Snippets and macros to help Thinqi markdown authors",
-			"author": "Darren Wallace",
-			"homepage": "http://www.cdsm.co.uk",
-			"last_modified": "2013-04-10 05:04:31",
+			"name": "Thinqi Authoring Snippets",
+			"description": "Snippets and stuff to help thinqi authors",
+			"author": "CDSMOpen",
+			"homepage": "https://github.com/CDSMOpen/thinqi_sublime",
+			"last_modified": "2013-04-15 12:00:00",
 			"platforms": {
 				"*": [
 					{
-						"url": "https://github.com/CDSMOpen/thinqi_sublime/zipball/develop"
+						"version": "0.1.0",
+						"url": "https://nodeload.github.com/CDSMOpen/thinqi_sublime/zip/develop"
 					}
 				]
 			}
