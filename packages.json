@@ -6,12 +6,12 @@
 			"description": "Snippets and stuff to help thinqi authors",
 			"author": "CDSMOpen",
 			"homepage": "https://github.com/CDSMOpen/thinqi_sublime",
-			"last_modified": "2013-04-15 12:00:00",
+			"last_modified": "2013-04-15 17:00:00",
 			"platforms": {
 				"*": [
 					{
 						"version": "0.1.0",
-						"url": "https://nodeload.github.com/CDSMOpen/thinqi_sublime/zip/develop"
+						"url": "https://nodeload.github.com/CDSMOpen/thinqi_sublime/zip/release/0.1.0"
 					}
 				]
 			}
